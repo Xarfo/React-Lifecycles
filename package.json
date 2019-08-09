@@ -1,9 +1,6 @@
 {
   "name": "react-lifecycle-doggos",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
-  "main": "src/index.js",
   "dependencies": {
     "prop-types": "15.6.2",
     "react": "16.4.2",
